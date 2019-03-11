@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="166.459" height="83" viewBox="0 0 166.459 83">
+    <defs>
+        <style>
+            .cls-1{fill:#06f}
+        </style>
+    </defs>
+    <g id="MAKEIT1" transform="translate(-106 -157)">
+        <path id="패스_81" d="M129.857 203.906L106 173.421v30.221l23.854 28.831 31.912-38.652V240h16.775v-83h-12.024z" data-name="패스 81"/>
+        <path id="패스_82" d="M363.64 305v10.149L369.519 305h5.323l-6.789 11.658 7.885 11.288h-5.608l-6.69-9.622v9.622h-4.6V305z" data-name="패스 82" transform="translate(-150.591 -88.076)"/>
+        <path id="패스_83" d="M419.531 304.856v4.6h-9.224v4.626h6.918v4.6h-6.918v4.618h9.224v4.583H405.7v-23.027z" data-name="패스 83" transform="translate(-178.355 -87.992)"/>
+        <g id="그룹_51" data-name="그룹 51" transform="translate(249.941 216.921)">
+            <path id="패스_84" d="M461.516 305h4.612v22.945h-4.612z" class="cls-1" data-name="패스 84" transform="translate(-461.516 -304.997)"/>
+            <path id="패스_85" d="M493.742 305v4.569h-5.637v18.376h-4.626v-18.379h-5.651V305z" class="cls-1" data-name="패스 85" transform="translate(-471.224 -304.997)"/>
+        </g>
+        <path id="패스_86" d="M309.83 305h-2.173l-10.252 22.944h5.4l1.681-3.779H313l1.681 3.779h5.419zm-3.37 14.754l2.3-5.26 2.268 5.26z" data-name="패스 86" transform="translate(-113.91 -88.078)"/>
+    </g>
+</svg>

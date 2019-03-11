@@ -1,0 +1,227 @@
+.tab {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    /* overflow: hidden; */
+}
+
+.tab li {
+    float:left;
+    width:232px;
+    text-align: center;
+    font-weight: bold;
+    font-family: 'Noto Sans', sans-serif;
+    font-size: 22px;
+    cursor: pointer;
+}
+
+
+
+.tabcontent {
+    display: none;
+    background-color: #ffffff;
+    color: #3d3d3d;
+    border-bottom-color: #0066ff;
+    padding-top: 50px;
+}
+
+ul.tab li.current{
+    background-color: #ffffff;
+    color: #0066ff;
+    border-bottom-color: #0066ff;
+}
+
+.tabcontent.current {
+    display: block;
+    color: #3d3d3d;
+}
+
+.servicesmall {
+    font-size: 30px;
+    color: #3d3d3d;
+    font-family: 'Noto Sans', sans-serif;
+}
+
+.servicebig {
+    font-size: 43px;
+    color: #3d3d3d;
+    font-weight: bold;
+    font-family: 'Noto Sans KR', sans-serif;
+}
+
+.sertop {
+    font-size:25px;
+    color:#3d3d3d;
+    font-weight:lighter;
+    font-family: 'Noto Sans KR', sans-serif;
+}
+
+.sertopbot {
+    font-size:40px;
+    font-weight:bold;
+    color:#3d3d3d;
+    font-family: 'Noto Sans KR', sans-serif;
+}
+
+.sermid {
+    font-size:30px;
+    font-weight:bold;
+    color:#3d3d3d;
+    font-family: 'Noto Sans KR', sans-serif;
+}
+
+.sermidblue {
+    font-size:20px;
+    color:#0066ff;
+    font-family: 'Noto Sans KR', sans-serif;
+}
+
+.sermidbot {
+    font-size:21px;
+    color:#3d3d3d;
+    position:relative;
+    top:40px;
+    font-family: 'Noto Sans KR', sans-serif;
+}
+
+.serbot {
+    margin:86px 0px 40px 0px;
+    font-family: 'Noto Sans KR', sans-serif;
+}
+
+/* .process img{
+    height:1345px;
+    width:100%;
+} */
+.process{
+    margin: 0 auto;
+
+}
+#title_en{
+    margin-top:0%;
+    padding-top:6%;
+    line-height:36px;
+    font-size:30px;
+}
+#title_ko{
+    font-size:43px;
+    font-weight:bold;
+    margin-bottom:3%;
+}
+    .bg{
+    background:url('https://cdn.zeplin.io/5c492537058fa079f196c51a/assets/358BBE00-1F41-4638-AAEC-6F57ACF47018.png') no-repeat;
+    width:1920px;
+    height:1345px;
+    margin: 0 auto;
+    
+}
+.process #box{
+    /* padding : 35px 35px 35px 35px; */
+    z-index:100;
+    width:100%;;
+    margin: 0 auto;
+    /* margin-top:-90px; */
+    padding-left:35px;
+    width:530px;
+    height:278px;
+    border:1px solid #BFBFBF;
+    border-radius:44px;
+    box-shadow: 2px 2px grey;
+    padding-top:54px;
+    background:white;
+    position:relative;
+}
+#box .box_title{
+    margin-top:-20px;
+    font-size:25px;
+    font-weight:bold;
+    color: #707070;
+    margin-bottom: 20px;
+    font-family: 'Noto Sans KR', sans-serif;
+}
+#box .box_content {
+    margin-bottom:33px;
+}
+#box .box_content p{
+    line-height:30px;
+    font-size:14px;
+    color: #3d3d3d;
+    position:relative;
+    font-family: 'Noto Sans KR', sans-serif;
+}
+#box #icon{
+    /* width:160; */
+    /* width:50%;         */
+    /* height:30px; */
+    /* margin:0px 150px 10px 0px; */
+    /* margin-right:150px; */
+    padding-bottom:19px;
+    font-size:12px;
+    color:#3d3d3d;
+    font-weight:bold;
+
+    
+}
+#box #icon img{
+    weight:19px; 
+    height:19px;
+    /* padding: 7px 7px 7px 7px; */
+    padding-right:6px;
+    /* padding-bottom:5px; */
+}
+#box #icon #content{
+    /* width:105px;
+    height:18px; */
+    /* padding-top:-20px; */
+    /* padding-bottom:-22px; */
+    /* margin-top:60px; */
+}
+#sadari{
+    /* margin-top:99%;*/
+    margin-left:15%;
+    margin-top:11%; 
+    z-index:2;
+    position:absolute;
+
+
+}
+.horizen_div{
+/* display: inline-block; *display: inline; zoom: 1; vertical-align: top; font-size: 12px; */
+margin: 0; padding: 0; width:100%; font-size: 0;
+
+}
+.horizen_div #icon{
+    width:45%; display: inline-block; *display: inline; zoom: 1;  font-size: 12px; 
+    font-family: 'Noto Sans KR', sans-serif;
+}
+.horizen_div #icon #content{
+    position: relative;
+    bottom: 6px;
+    font-family: 'Noto Sans KR', sans-serif;
+}
+
+.freeservicetitle {
+    color: #3d3d3d;
+    font-size: 30px;
+    font-weight: bold;
+    font-family: 'Noto Sans KR', sans-serif;
+    margin-top: 60px;
+    margin-bottom: 40px;
+    position: relative;
+    right: 10px;
+}
+
+.freeservicecontent {
+    font-size: 20px;
+    font-family: 'Noto Sans KR', sans-serif;
+    color: #3d3d3d;
+    position:relative;
+    right:10px;
+}
+
+.lineadjust {
+    line-height: 2em;
+}
+.font-noto{
+    font-family: 'Noto Sans KR', sans-serif;
+}

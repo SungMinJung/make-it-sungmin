@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="507.211" height="78" viewBox="0 0 507.211 78">
+    <defs>
+        <style>
+            .cls-1,.cls-3{fill:#06f}.cls-1{font-size:53px;font-family:NotoSansCJKkr-Black,Noto Sans CJK KR;font-weight:800;letter-spacing:.044em}.cls-2{fill:#000}.cls-4{fill:#fff;font-size:22px;font-family:NotoSansCJKkr-Medium,Noto Sans CJK KR;font-weight:500}.cls-5{filter:url(#웹_앱_서비스를_약속합니다)}
+        </style>
+        <filter id="웹_앱_서비스를_약속합니다" width="260" height="51" x="247.211" y="25.143" filterUnits="userSpaceOnUse">
+            <feOffset dy="3"/>
+            <feGaussianBlur result="blur" stdDeviation="3"/>
+            <feFlood flood-opacity=".388"/>
+            <feComposite in2="blur" operator="in"/>
+            <feComposite in="SourceGraphic"/>
+        </filter>
+    </defs>
+    <g id="그룹_157" data-name="그룹 157" transform="translate(-450.019 -540.576)">
+        <text id="COMMIT" class="cls-1" transform="translate(450.019 540.576)">
+            <tspan x="3.178" y="61" class="cls-2">COMM</tspan><tspan y="61" class="cls-3">IT</tspan>
+        </text>
+        <g class="cls-5" transform="translate(450.02 540.58)">
+            <text id="웹_앱_서비스를_약속합니다-2" class="cls-4" data-name="웹/앱 서비스를 약속합니다" transform="translate(256.21 31.14)">
+                <tspan x="0" y="26">웹/앱 서비스를 약속합니다</tspan>
+            </text>
+        </g>
+    </g>
+</svg>

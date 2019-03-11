@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="702.03" height="985.341" viewBox="0 0 702.03 985.341">
+    <defs>
+        <style>
+            .cls-1{fill:none;stroke:#06f;stroke-width:10px}.cls-2{fill:#06f}
+        </style>
+    </defs>
+    <g id="그룹_147" data-name="그룹 147" transform="translate(-647.5 -2183.159)">
+        <path id="선_18" d="M0 0v964" class="cls-1" data-name="선 18" transform="translate(652.5 2204.5)"/>
+        <path id="선_20" d="M0 0v865" class="cls-1" data-name="선 20" transform="translate(1266.5 2303.5)"/>
+        <path id="선_19" d="M0 0h374" class="cls-1" data-name="선 19" transform="translate(849.5 3071.5)"/>
+        <circle id="타원_39" cx="17.325" cy="17.325" r="17.325" class="cls-2" data-name="타원 39" transform="translate(1249 2285.89)"/>
+        <g id="그룹_129" data-name="그룹 129" transform="translate(1053.774 2026.159)">
+            <g id="그룹_100" data-name="그룹 100" transform="translate(188.985 220.88)">
+                <path id="패스_130" d="M312.273 323.483h-7.35l-1.436 5.712h-6.08l7.717-24.855h7.149l7.717 24.855h-6.28zm-1.136-4.61l-.534-2.1c-.668-2.472-1.3-5.445-1.971-7.984h-.132c-.6 2.606-1.269 5.512-1.9 7.984l-.534 2.1z" data-name="패스 130" transform="translate(-297.406 -304.341)"/>
+                <path id="패스_131" d="M355.508 304.341h5.98v9.822h.1l7.049-9.822h6.548l-7.516 9.955 8.919 14.9h-6.548l-5.846-10.189-2.706 3.675v6.518h-5.98z" data-name="패스 131" transform="translate(-330.318 -304.341)"/>
+                <path id="패스_132" d="M410.065 304.341h15.768v4.944h-9.788v4.61h8.318v5.011h-8.318v5.279H426.2v5.015h-16.135z" data-name="패스 132" transform="translate(-361.221 -304.341)"/>
+                <path id="패스_133" d="M476.256 304.341h5.98V329.2h-5.98z" class="cls-2" data-name="패스 133" transform="translate(-398.715 -304.341)"/>
+                <path id="패스_134" d="M505.548 309.285h-6.715v-4.944h19.443v4.944h-6.748V329.2h-5.98z" class="cls-2" data-name="패스 134" transform="translate(-411.504 -304.341)"/>
+            </g>
+            <path id="패스_135" d="M131.546 207.228L106 174.584v32.362l25.543 30.873 34.172-41.389v49.45h17.963V157H170.8z" data-name="패스 135"/>
+        </g>
+    </g>
+</svg>

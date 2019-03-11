@@ -1,0 +1,90 @@
+
+// Fonts
+@import url('https://fonts.googleapis.com/css?family=Nunito');
+@import url('https://fonts.googleapis.com/css?family=Noto+Sans|Noto+Sans+KR');
+// Variables
+@import 'variables';
+
+// // Bootstrap
+// @import '~bootstrap/scss/bootstrap';
+
+// .navbar-laravel {
+//   background-color: #fff;
+//   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.04);
+// }
+
+
+
+*{
+  // outline:1px solid red;
+  padding:0px;
+  margin:0px;
+}
+.font-noto-eng{
+  font-family: 'Noto Sans', sans-serif;
+}
+.font-noto-kr{
+  font-family: 'Noto Sans KR', sans-serif;
+}
+.container{
+  width:1200px;
+  margin:0 auto;
+}
+.row {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
+}
+.img{
+  width:100%;
+}
+.btn{
+  cursor:pointer;
+}
+.col-1{ width:102px; margin:0 10px 0 10px; }
+.col-1:first-child{ margin-left:0px; }
+.col-1:last-child{ margin-right:0px; }
+
+.col-2{ width:224px; margin:0 10px 0 10px; }
+.col-2:nth-of-type(5n){ margin-right:0px; }
+.col-2:nth-of-type(5n+1){ margin-left:0px; }
+
+.col-3{ width:346px; margin:0 10px 0 10px; }
+.col-3:first-child{ margin-left:0px; }
+.col-3:last-child{ margin-right:0px; }
+
+.col-4{ width:468px; margin:0 10px 0 10px; }
+.col-4:first-child{ margin-left:0px; }
+.col-4:last-child{ margin-right:0px; }
+
+.col-5{ width:590px; margin:0 10px 0 10px; }
+.col-5:first-child{ margin-left:0px; }
+.col-5:last-child{ margin-right:0px; }
+
+.col-6{ width:712px; margin:0 10px 0 10px; }
+.col-6:first-child{ margin-left:0px; }
+.col-6:last-child{ margin-right:0px; }
+
+.col-7{ width:834px; margin:0 10px 0 10px; }
+.col-7:first-child{ margin-left:0px; }
+.col-7:last-child{ margin-right:0px; }
+
+.col-8{ width:956px; margin:0 10px 0 10px; }
+.col-8:first-child{ margin-left:0px; }
+.col-8:last-child{ margin-right:0px; }
+
+.col-9{ width:1078px; margin:0 10px 0 10px; }
+.col-9:first-child{ margin-left:0px; }
+.col-9:last-child{ margin-right:0px; }
+
+.col-10{ width:1180px; margin:0 20px 0 20px; }
+
+@import 'maintop.scss';
+
+@import 'service.scss';
+
+@import 'contact.scss';
+
+@import 'portfolio';

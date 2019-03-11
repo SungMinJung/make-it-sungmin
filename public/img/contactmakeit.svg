@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="367.934" height="183.46" viewBox="0 0 367.934 183.46">
+    <defs>
+        <style>
+            .cls-1{fill:#fff}.cls-2{fill:#06f}
+        </style>
+    </defs>
+    <g id="그룹_80" data-name="그룹 80" transform="translate(-106 165)">
+        <path id="패스_124" d="M158.732-61.321L106-128.7v66.8l52.726 63.722 70.537-85.434V18.46h37.079V-165h-26.578z" class="cls-1" data-name="패스 124"/>
+        <path id="패스_125" d="M369.2-17V5.429L382.2-17h11.767L378.959 8.765l17.43 24.95h-12.4L369.2 12.445v21.269h-10.157V-17z" class="cls-1" data-name="패스 125" transform="translate(-26.588 -15.551)"/>
+        <path id="패스_126" d="M436.276-17.144v10.163h-20.387V3.244h15.291v10.162h-15.291v10.226h20.387v10.13H405.7v-50.906z" class="cls-1" data-name="패스 126" transform="translate(-31.49 -15.536)"/>
+        <g id="그룹_79" data-name="그룹 79" transform="translate(424.161 -32.554)">
+            <path id="패스_127" d="M461.516-17h10.193v50.714h-10.193z" class="cls-2" data-name="패스 127" transform="translate(-461.516 17.003)"/>
+            <path id="패스_128" d="M513-17v10.1h-12.456v40.614h-10.226V-6.9h-12.49V-17z" class="cls-2" data-name="패스 128" transform="translate(-463.23 17.003)"/>
+        </g>
+        <path id="패스_129" d="M324.868-17h-4.8l-22.66 50.715h11.933l3.717-8.353h18.819l3.716 8.353h11.967zm-7.448 32.611l5.08-11.626 5.012 11.626z" class="cls-1" data-name="패스 129" transform="translate(-20.112 -15.551)"/>
+    </g>
+</svg>
